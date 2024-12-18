@@ -164,4 +164,4 @@ SOFTWARE.
 
 Álvaro Filho - alvarofilho.dev@gmail.com
 
-Projeto Link: https://github.com/4lvarofilho/Flask-Todo-List-API.git
+Projeto Link: https://github.com/4lvarofilho/flask-todo-list.git
